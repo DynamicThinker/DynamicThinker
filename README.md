@@ -5,6 +5,6 @@
 </span> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=radical)
-[![ingrydf12](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&hide=html&layout=compact=true&theme=dracula)](https://github.com/ingrydf12/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&theme=dracula) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&theme=tokyonight)](https://github.com/ingrydf12/github-readme-stats)
+
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
