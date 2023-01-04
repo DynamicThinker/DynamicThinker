@@ -13,5 +13,5 @@ Skills: HTML / JAVA / GML / CSS / MYSQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ingrydf12)  
+//![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ingrydf12)  
 
