@@ -13,3 +13,10 @@ Skills: HTML / JAVA / GML / CSS / MYSQL
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=7&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
+  
+  <hr>
+
+<p align="center">
+  <img src="https://github.com/ingrydf12/ingrydf12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
