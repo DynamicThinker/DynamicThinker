@@ -20,7 +20,7 @@ Skills: HTML / JAVA / GML / CSS / MYSQL
 ![](https://activity-graph.herokuapp.com/graph?username=ingrydf12&theme=redical)
 <hr>
 
-<p align="center">
-  <img src="https://github.com/ingrydf12/ingrydf12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<!--<p align="center">
+  --<img src="https://github.com/ingrydf12/ingrydf12/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+--</p> -->
 
