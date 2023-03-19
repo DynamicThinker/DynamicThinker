@@ -11,10 +11,12 @@ Skills: HTML / JAVA / GML / CSS / MYSQL
 
 <div>
 <a href="https://github.com/ingrydf12">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=8&theme=midnight-purple&border_radius"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
+  </a>
+  </div>
+ 
+  
 <hr> 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ingrydf12&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="ingrydf12" /></p>
   
