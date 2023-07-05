@@ -1,5 +1,5 @@
 ### Ingryd"
-
+i have a passion for using technology as a tool to make a difference. my purpose is to help people in the environmental and informational realms by seeking innovative and sustainable solutions. i believe that by combining my technological expertise with my commitment to the environment and education, i can create a positive impact and contribute to a more conscious and equitable future.
 > ![Alt Text](https://img.wattpad.com/dd318f308497513f70414e2e71fd8f81431abaea/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6956456a634d354c5270573875413d3d2d313238373733393136372e313732386563353064326666353365653133343733333432303134332e676966)
 
 
