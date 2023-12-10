@@ -4,9 +4,11 @@
 
 
 
-<b>Skills:</b> HTML / JAVA / GML / CSS / MYSQL
+<b>Skills:</b> HTML / JAVA / C / GML / MYSQL
 
 - <b> ATUALMENTE:</b> Estudando HTML e CSS
+
+- Developing my programming and design skills. ;P
 
 [<img src='https://raphaelbrodrigues.github.io/images/git.png' alt='github' height='40'>](https://github.com/ingrydf12)  [<img src='https://icon-library.com/images/twitter-icon-png-white/twitter-icon-png-white-12.jpg' alt='twitter' height='40'>](https://twitter.com/ingrxw)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12)
 
