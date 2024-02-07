@@ -1,7 +1,7 @@
 ### Ingryd"
 > ![Alt Text](https://giffiles.alphacoders.com/220/220277.gif)
 
-
+[<img src='https://raphaelbrodrigues.github.io/images/git.png' alt='github' height='40'>](https://github.com/ingrydf12)  [<img src='https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png' alt='instagram' height='40'>](https://www.instagram.com/tkdpiratedev/)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12) [<img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-white-icon.png' alt='linktree' height='40'>](https://linktr.ee/ingryddev)
 
 <b>Skills:</b> HTML / JAVA / C / GML / MYSQL
 
@@ -17,7 +17,6 @@
 
 <hr>
 
-[<img src='https://raphaelbrodrigues.github.io/images/git.png' alt='github' height='40'>](https://github.com/ingrydf12)  [<img src='https://icon-library.com/images/twitter-icon-png-white/twitter-icon-png-white-12.jpg' alt='twitter' height='40'>](https://twitter.com/ingrxw)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12)
 
 <div>
 <a href="https://github.com/ingrydf12">
