@@ -10,6 +10,8 @@
 
 - Developing my programming and design skills. ;P
 
+- Projeto atual: <iframe frameborder="0" src="https://itch.io/embed/2479072?bg_color=000000&amp;fg_color=58c0ff&amp;link_color=2996cd" width="552" height="167"><a href="https://tkdingryd.itch.io/outsidehome">Outside home by ;), JIKS Studios</a></iframe>
+
 [<img src='https://raphaelbrodrigues.github.io/images/git.png' alt='github' height='40'>](https://github.com/ingrydf12)  [<img src='https://icon-library.com/images/twitter-icon-png-white/twitter-icon-png-white-12.jpg' alt='twitter' height='40'>](https://twitter.com/ingrxw)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12)
 
 <div>
