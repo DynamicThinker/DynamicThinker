@@ -1,6 +1,5 @@
 ### Ingryd"
-;) 
-> ![Alt Text](https://img.wattpad.com/dd318f308497513f70414e2e71fd8f81431abaea/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6956456a634d354c5270573875413d3d2d313238373733393136372e313732386563353064326666353365653133343733333432303134332e676966)
+> ![Alt Text](https://giffiles.alphacoders.com/220/220277.gif)
 
 
 
@@ -10,7 +9,13 @@
 
 - Developing my programming and design skills. ;P
 
-- Projeto atual: <iframe frameborder="0" src="https://itch.io/embed/2479072?bg_color=000000&amp;fg_color=58c0ff&amp;link_color=2996cd" width="552" height="167"><a href="https://tkdingryd.itch.io/outsidehome">Outside home by ;), JIKS Studios</a></iframe>
+
+<h2> <b> Projeto atual:</b></h3> <br>
+
+[<img src='https://img.itch.zone/aW1nLzE0OTYwNTM1LnBuZw==/315x250%23c/M5AZmT.png' alt='outsidehome' height='150'>](https://tkdingryd.itch.io/outsidehome)
+
+
+<hr>
 
 [<img src='https://raphaelbrodrigues.github.io/images/git.png' alt='github' height='40'>](https://github.com/ingrydf12)  [<img src='https://icon-library.com/images/twitter-icon-png-white/twitter-icon-png-white-12.jpg' alt='twitter' height='40'>](https://twitter.com/ingrxw)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12)
 
