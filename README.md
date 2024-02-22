@@ -10,11 +10,6 @@
 - Developing my programming and design skills. ;P
 
 
-<h2> <b> Projeto atual:</b></h3> <br>
-
-[<img src='https://img.itch.zone/aW1nLzE0OTYwNTM1LnBuZw==/315x250%23c/M5AZmT.png' alt='outsidehome' height='150'>](https://tkdingryd.itch.io/outsidehome)
-
-
 <hr>
 
 
