@@ -5,7 +5,7 @@
   ![Hello](https://i.pinimg.com/originals/a3/40/4f/a3404f9ccac3638f1eb136d799618d40.gif)
 
 
-[<img src='https://github.com/ingrydf12/ingrydf12/blob/main/github.png' alt='github' height='40'>](https://github.com/ingrydf12)  [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tkdpiratedev/)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12) [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/linktree.png' alt='linktree' height='40'>](https://linktr.ee/ingryddev)
+[<img src='https://github.com/ingrydf12/ingrydf12/blob/main/itchio.png' alt='itchio' height='40'>](https://tkdingryd.itch.io)  [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tkdpiratedev/)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12) [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/linktree.png' alt='linktree' height='40'>](https://linktr.ee/ingryddev)
 </div>
 
 <b>Skills:</b> HTML / JAVA / C / GML / MYSQL
