@@ -10,12 +10,12 @@
 
 <b>Skills:</b> HTML / JAVA / C / GML / MYSQL
 
-- <b> ATUALMENTE:</b> Studying GML for games, Java and Kotlin for Android applications.
+- <b> ATUALMENTE:</b> Studying Python for Backend, Java and Kotlin for applications.
 
 <div align= center>
 <h3><b>Ferramentas com experiência</b></h3>
 
-<img src='https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png' alt='figma' height='50'> <img src='https://scontent.ffor4-2.fna.fbcdn.net/v/t39.30808-6/327373717_1508493232970381_7212993667778929201_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ucIBZa53T8EAX_SDxqT&_nc_ht=scontent.ffor4-2.fna&oh=00_AfDcfmLt7YuYB2EDOEqoCuOSTLGcGPaQn2LJuxfeCzcTnw&oe=65F477BE' alt='gamemaker' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png' alt='androidstudio' height='50'> <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/C4D_Logo.png/1200px-C4D_Logo.png' alt='cinema4d' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png' alt='intellijIdea' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png' alt='netbeans' height='50'> <img src='https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png' alt='VisualStudioCode' height='50'> <img src='' alt='' height='50'> <img src='' alt='' height='50'>
+<img src='https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png' alt='figma' height='50'> <img src='https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e.ico' alt='gamemaker' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png' alt='androidstudio' height='50'> <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/C4D_Logo.png/1200px-C4D_Logo.png' alt='cinema4d' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png' alt='intellijIdea' height='50'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png' alt='netbeans' height='50'> <img src='https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png' alt='VisualStudioCode' height='50'> <img src='' alt='' height='50'> <img src='' alt='' height='50'>
 <hr>
 </div>
 
