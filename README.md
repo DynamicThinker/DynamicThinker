@@ -2,15 +2,18 @@
   <h1><b>### Ingryd"</b></h1>
   <p>Developing my programming and design skills :P</p>
   
-  ![Hello](https://i.pinimg.com/originals/a3/40/4f/a3404f9ccac3638f1eb136d799618d40.gif)
+  <img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" width="100%" height="400" border-radius="10">
 
 
 [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/itchioup.png' alt='itchio' height='40'>](https://tkdingryd.itch.io)  [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/insta.png' alt='instagram' height='40'>](https://www.instagram.com/tkdpiratedev/)  [<img src='https://img.freepik.com/icones-gratis/vapor_318-219838.jpg?w=2000' alt='steam' height='40'>](https://steamcommunity.com/id/ingrydf12) [<img src='https://github.com/ingrydf12/ingrydf12/blob/main/linktree.png' alt='linktree' height='40'>](https://linktr.ee/ingryddev)
 </div>
 
-<b>Skills:</b> HTML / JAVA / C / GML / MYSQL
+<div align=center>
+<b>Skills:</b>
+<img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg' alt='css' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='js' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'><img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' height='50'><img src='https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png' alt='gml (gamemaker)' height='50'>
+</div>
 
-- <b> ATUALMENTE:</b> Studying Python for Backend, Java and Kotlin for applications.
+- <b> ATUALMENTE:</b> Studying Python for Backend, Kotlin and Swift for applications.
 
 <div align= center>
 <h3><b>Ferramentas com experiência</b></h3>
