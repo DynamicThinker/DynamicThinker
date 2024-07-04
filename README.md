@@ -1,16 +1,17 @@
 <div align="center">
   <h3>Developing my programming and design skills :P</h3>
-      <img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" width="100%" height="400">
+      <img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" width="100%" height="300">
   <br>
 
   <div align="center">
-    <h3>Skills:</h3>
+    <h4>Skills:</h4>
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg' alt='css' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' height='50'>
+   <!--
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='js' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'> -->
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' height='50'>
     <img src='https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png' alt='gml (gamemaker)' height='50'>
   </div>
@@ -20,7 +21,7 @@
   <b> ATUALMENTE:</b> Studying Python for Backend, Kotlin and Swift for applications.
 
   <div align="center">
-    <h3><b>Ferramentas com experiência</b></h3>
+    <h4><b>Ferramentas com experiência</b></h4>
     <img src='https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png' alt='figma' height='50'> 
     <img src='https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e.ico' alt='gamemaker' height='50'> 
     <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png' alt='androidstudio' height='50'> 
