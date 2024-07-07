@@ -10,8 +10,8 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' height='50'>
    <!--
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='js' height='50'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'> -->
+    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'> -->
+    <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' height='50'>
     <img src='https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png' alt='gml (gamemaker)' height='50'>
   </div>
