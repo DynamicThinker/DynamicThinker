@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Developing my programming and design skills :P</h3>
-      <img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" width="100%" height="300">
+       <img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" width="100%" height="300">
   <br>
 
   <div align="center">
@@ -18,27 +18,21 @@
 
   <br>
 
-  <b> ATUALMENTE:</b> Studying Python for Backend, Kotlin and Swift for applications.
+  <b> ATUALMENTE:</b> Developing projects using Swift and Kotlin, and studying for full-stack web.
 
-  <div align="center">
-    <h4><b>Ferramentas com experiência</b></h4>
-    <img src='https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png' alt='figma' height='50'> 
-    <img src='https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e.ico' alt='gamemaker' height='50'> 
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png' alt='androidstudio' height='50'> 
-    <img src='https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/C4D_Logo.png/1200px-C4D_Logo.png' alt='cinema4d' height='50'> 
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/768px-IntelliJ_IDEA_Icon.svg.png' alt='intellijIdea' height='50'> 
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png' alt='netbeans' height='50'> 
-    <img src='https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png' alt='VisualStudioCode' height='50'>
-  </div>
+  <div align=center>
+    <b><h4>Ferramentas com experiência</h4></b>
+    
+  [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai&theme=light)](https://skillicons.dev)
 
-  <hr>
-      <div align="center">
-          <h4>Social Media</h4>
+</div>
+
+<h5>Social Media</h5>
         <a href="https://tkdingryd.itch.io" target="_blank"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" target="_blank" alt="itchio" height="40"></a>
         <a href="https://www.behance.net/ingrydduarte" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482326-behance_78664.png" target="_blank" alt="behance" height="40"></a>
         <a href="https://linktr.ee/ingryddev" target="_blank"><img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png" target="_blank" alt="linktree" height="40"></a>
-      </div>
-<br/>
+  <hr>
+
 <div align="center">
     <a href="https://github.com/ingrydf12">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=8&theme=midnight-purple&border_radius"/>
