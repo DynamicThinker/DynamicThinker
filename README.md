@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Developing my programming and design skills :P</h3>
-       <img src="https://i.pinimg.com/originals/0f/8c/8a/0f8c8aa6189de952da3ea34c5d93b9dc.gif" width="100%" height="300">
+       <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="100%" height="400">
   <br>
 
   <div align="center">
@@ -8,9 +8,8 @@
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg' alt='css' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' height='50'>
-   <!--
     <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' alt='js' height='50'>
-    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'> -->
+    <!-- <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'> -->
     <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' height='50'>
     <img src='https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png' alt='gml (gamemaker)' height='50'>
@@ -21,7 +20,9 @@
   <b> NOW:</b> Developing projects using Swift and Kotlin, and studying for full-stack web.
 
   <div align=center>
-    <b><h4>Tools with experience</h4></b>
+  <a href="https://www.figma.com/design/TjkEK7oCiXR7HuaA2ex3e0/portf%C3%B3lioOverview-Ingryd?node-id=0-1&t=i5k3aCiotZC4mryH-1"> 💾 Design Works</a>
+    
+  <b><h4>Tools with experience</h4></b>
     
   [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=light)](https://skillicons.dev)
   <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="50">
