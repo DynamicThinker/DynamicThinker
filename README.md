@@ -12,6 +12,8 @@
     <!-- <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' alt='nodejs' height='50'> -->
     <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' alt='kotlin' height='50'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' alt='react' height='50'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg' alt='swift' height='50'>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" height ="50">
     <img src='https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png' alt='gml (gamemaker)' height='50'>
   </div>
 
@@ -27,6 +29,7 @@
   [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=light)](https://skillicons.dev)
   <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="50">
    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" height="50">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure" height="50">
 
 </div>
 
