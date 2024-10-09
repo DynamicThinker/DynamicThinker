@@ -27,7 +27,7 @@
     
   <b><h4>Tools with experience</h4></b>
     
-  [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=light)](https://skillicons.dev)
+  [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=dark)](https://skillicons.dev)
   <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="50">
   <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png" alt="insomnia" height="50">
    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" height="50">
