@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/72ecd96d-7d1c-4f1a-bebe-a8250bd3f82f" alt="gif guitar jujutsu kaisen" height="200">
   <h3 align="center">
   <a href="https://ingryd-duarte.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=790cc2&pause=600&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=a87aff&pause=600&size=22" /></a>
   </h3>
   <p>I'm from Fortaleza, Brazil. I am currently an undergraduate student at the Federal University of Ceará @ Systems and Digital Media. I've been passionate about technology, innovation and games since I was a child and this is my Github. I hope you like it! ;)
   <p><b> NOW:</b> Developing educational projects for iOS and web applications.</p>
