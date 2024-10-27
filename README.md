@@ -1,13 +1,20 @@
-<div align="center">
-  <h3>Developing my programming and design skills :P</h3>
-  
-  ![Imagem](https://github.com/user-attachments/assets/201428e8-9807-47e6-9b6d-862b392ee812)
+
+<div name="introduction" align="center">
+  <h1 align="left">Hi, i'm Ingryd!</h1>
+  <img src="https://github.com/user-attachments/assets/72ecd96d-7d1c-4f1a-bebe-a8250bd3f82f" height=200">
+  <h3 align="center">
+  <a href="https://ingryd-duarte.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=790cc2&pause=600&size=22" /></a>
+  </h3>
+  <p align="left">I'm from Fortaleza, Brazil. I am currently an undergraduate student at the Federal University of Ceará @ Systems and Digital Media. I've been passionate about technology, innovation and games since I was a child and this is my Github. I hope you like it! ;)
+  <p align="left"><b> NOW:</b> Developing educational projects for iOS and web applications.</p>
+
+</div>
+
 <br>
 
-  <b> NOW:</b> Developing projects using SwiftUI and Kotlin, and studying for full-stack web.
-
-  <div align="center">
-    <h4>Skills:</h4>
+<div name="skills" align="center" gap="10">
+    <h3>Skills</h3>
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg' alt='css' height='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' height='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' alt='java' height='40'>
@@ -18,14 +25,8 @@
     <img src='https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg' alt='swift' height='40'>
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" height ="40">
     <img src='https://user-images.githubusercontent.com/60024796/170530530-b17fc2f4-91ad-4b2b-ad58-d6d4b3ed9aac.png' alt='gml (gamemaker)' height='40'>
-  </div>
 
-  <br>
-
-  <div align=center>
-  <a href="https://www.figma.com/design/TjkEK7oCiXR7HuaA2ex3e0/portf%C3%B3lioOverview-Ingryd?node-id=0-1&t=i5k3aCiotZC4mryH-1"> 💾 Design Works</a>
-    
-  <b><h4>Tools with experience</h4></b>
+  <h3>Tools with experience</h3>
     
   [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=dark)](https://skillicons.dev)
   <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="50">
@@ -35,15 +36,11 @@
 
 </div>
 
-<h5>Social Media</h5>
-        <a href="https://tkdingryd.itch.io" target="_blank"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" target="_blank" alt="itchio" height="40"></a>
-        <a href="https://www.behance.net/ingrydduarte" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1099/PNG/512/1485482326-behance_78664.png" target="_blank" alt="behance" height="40"></a>
-        <a href="https://linktr.ee/ingryddev" target="_blank"><img src="https://asset.brandfetch.io/id_tNIm05N/idJgd2UeGc.png" target="_blank" alt="linktree" height="40"></a>
-  <hr>
+<hr>
 
 <div align="center">
     <a href="https://github.com/ingrydf12">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc&border_radius"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc&border_radius"/>
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
     </a>
   </div>
