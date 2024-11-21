@@ -1,10 +1,10 @@
 
 <div name="introduction" align="center">
   <h1>Hi, i'm Ingryd!</h1>
-  <img src="https://github.com/user-attachments/assets/72ecd96d-7d1c-4f1a-bebe-a8250bd3f82f" alt="gif guitar jujutsu kaisen" height="200">
+  <img src="https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif" alt="gif guitar jujutsu kaisen" height="200">
   <h3 align="center">
   <a href="https://ingryd-duarte.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=a87aff&pause=600&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=a87aff&pause=300&size=22" /></a>
   </h3>
   <p>I'm from Fortaleza, Brazil. I am currently an undergraduate student at the Federal University of Ceará @ Systems and Digital Media. I've been passionate about technology, innovation and games since I was a child and this is my Github. I hope you like it! ;)
   <p><b> NOW:</b> Developing educational projects for iOS and web applications.</p>
@@ -37,10 +37,10 @@
   <h3>Tools with experience</h3>
     
   [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=dark)](https://skillicons.dev)
-  <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="50">
-  <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png" alt="insomnia" height="50">
-   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" height="50">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure" height="50">
+  <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="40">
+  <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png" alt="insomnia" height="40">
+   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" height="40">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure" height="40">
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
     <a href="https://github.com/ingrydf12">
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc&border_radius"/>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc&border_radius"/>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
     </a>
   </div>
