@@ -14,6 +14,7 @@
   I'm from Fortaleza, Brazil. I am currently an undergraduate student at the 
   Federal University of Ceará, studying Systems and Digital Media. 
   I've been passionate about technology, innovation, and games since I was a child, and this is my GitHub. 
+  
   I hope you like it! 😉
 </p>
   <p align='left'><b> NOW:</b> Developing educational projects for iOS and web applications.</p>
