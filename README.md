@@ -21,7 +21,7 @@
   
   <!-- Contact me -->
   [![Gmail Badge](https://img.shields.io/badge/gmail-5319bf.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ingryddev@gmail.com)](mailto:ingryddev@gmail.com)
-  <a href="www.linkedin.com/in/ingrydduarte"><img src="https://img.shields.io/badge/linkedin-5319bf.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ingrydduarte/"><img src="https://img.shields.io/badge/linkedin-5319bf.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.behance.net/ingrydduarte"><img src="https://img.shields.io/badge/behance-5319bf.svg?style=for-the-badge&logo=behance&logoColor=white"></a>
   <a href="https://tkdingryd.itch.io"><img src="https://img.shields.io/badge/itch.io-5319bf.svg?style=for-the-badge&logo=itch.io&logoColor=white"></a>
 
