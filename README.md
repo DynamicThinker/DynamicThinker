@@ -1,24 +1,20 @@
 
 <div name="introduction" align="left">
-  
-<h1 align="center">Hi, I'm Ingryd"</h1> 
 
-<h3 align="center">
+<h3 align="left">
   <a href="https://ingryd-duarte.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=a87aff&pause=300&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20iOS%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=true&font=Fira%20Code&width=440&height=45&color=a87aff&pause=300&size=22" />
   </a>
-  <img align="right" src="https://giffiles.alphacoders.com/215/215911.gif" width="300" alt="Coding GIF">
 </h3>
 
-<p align='left'>
+<p>
   I'm from Fortaleza, Brazil. I am currently an undergraduate student at the 
   Federal University of Ceará, studying Systems and Digital Media. 
-  I've been passionate about technology, innovation, and games since I was a child, and this is my GitHub. 
+  I've been passionate about technology, innovation, and games since I was a child, and this is my GitHub.  I hope you like it! 😉
   
-  I hope you like it! 😉
-</p>
-  <p align='left'><b> NOW:</b> Developing educational projects for iOS and web applications.</p>
-  
+  <b>Interested in:</b> Mobile development, UI/UX, back-end and full-stack development.
+</p>  
+
   <!-- Contact me -->
   [![Gmail Badge](https://img.shields.io/badge/gmail-5319bf.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ingryddev@gmail.com)](mailto:ingryddev@gmail.com)
   <a href="https://www.linkedin.com/in/ingrydduarte/"><img src="https://img.shields.io/badge/linkedin-5319bf.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -29,7 +25,7 @@
 
 <br>
 
-<div name="skills" align="center" gap="10">
+<div name="skills" align="left" gap="10">
     <h3>Skills</h3>
     <img src='https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg' alt='css' height='40'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' alt='html' height='40'>
@@ -60,7 +56,7 @@
 </div>
 <hr>
 
-<div align="center">
+<div align="left">
     <a href="https://github.com/ingrydf12">
       <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc&border_radius"/>
       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
