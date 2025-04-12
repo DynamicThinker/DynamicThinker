@@ -46,7 +46,7 @@ I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federa
 
 <div align="left">
     <a href="https://github.com/ingrydf12">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc&border_radius"/>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc,html,css&border_radius"/>
       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
     </a>
   </div>
