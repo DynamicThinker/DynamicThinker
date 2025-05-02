@@ -8,9 +8,9 @@
 </h3>
 
 <p>
-I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federal University of Ceará, studying Digital Systems and Media. I've been passionate about technology, innovation, and games since I was a child, and I started programming in mid-2022. This is my GitHub, I hope you like it! 😉
+I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federal University of Ceará, studying Digital Systems and Media. I've been passionate about technology, innovation, and games since I was a child and started programming in mid-2022. I'm currently looking for my first opportunity and this is my GitHub, where I share projects, studies, open-source projects, and my evolution in programming. I hope you like it! 😉
   
-  <b>Interested in:</b> Mobile development, UI/UX, back-end and full-stack development.
+  <b>Interested in:</b> Mobile development, UI/UX, back-end, full-stack development and cybersecurity.
 </p>  
 
   <!-- Contact me -->
@@ -25,7 +25,7 @@ I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federa
 <div name="skills" align="left" gap="10">
     <h3>Skills</h3>
   
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,css,nodejs,vite,vue,kotlin,swift,react,prisma,postgresql,nextjs,tailwindcss,threejs,python,jupyter)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,css,nodejs,vite,vue,kotlin,swift,react,prisma,postgresql,nextjs,tailwindcss,threejs,python,ruby)](https://skillicons.dev)
 </div>
 
 
@@ -46,7 +46,7 @@ I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federa
 
 <div align="left">
     <a href="https://github.com/ingrydf12">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=9&theme=midnight-purple&hide=yacc,html,css&border_radius"/>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=10&theme=midnight-purple&hide=processing,yacc,html,css&border_radius"/>
       <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
     </a>
   </div>
