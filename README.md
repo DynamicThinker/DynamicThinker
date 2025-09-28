@@ -2,9 +2,7 @@
 <div name="introduction" align="left">
 
 <h3 align="left">
-  <a href="https://ingryd-duarte.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20iOS%20developer;%20UI%2FUX%20Designer%20Jr;Always%20learning%20new%20things;See%20more%20works%20here&center=false&font=Fira%20Code&width=420&height=45&color=a87aff&pause=300&size=22" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Sans&weight=500&size=22&duration=3800&pause=1000&color=FF8000&width=435&lines=Hey%2C+Pratish+here!;%F0%9F%9A%80+Always+building%2C+always+breaking%2C+always+learning.;%F0%9F%A7%A9+Big+fan+of+solving+weird+bugs+at+3+AM.)](https://git.io/typing-svg)
 </h3>
 
 <p>
