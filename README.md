@@ -22,16 +22,6 @@ Trying to cope up with world.
   
    [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,css,nodejs,vite,vue,react,nextjs,tailwindcss,python,gsap)](https://skillicons.dev)
 </div>
-
-
-  <h3>Tools with experience</h3>
-    
-  [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=dark)](https://skillicons.dev)
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="50">
-
-
-</div>
 <hr>
 
 <div align="left">
