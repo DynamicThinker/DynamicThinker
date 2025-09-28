@@ -6,9 +6,9 @@
 </h3>
 
 <p>
-I'm from Fortaleza, Brazil. I'm currently an undergraduate student at the Federal University of Ceará, studying Digital Systems and Media. I've been passionate about technology, innovation, and games since I was a child and started programming in mid-2022. I'm currently looking for my first opportunity and this is my GitHub, where I share projects, studies, open-source projects, and my evolution in programming. I hope you like it! 😉
+Trying to cope up with world.
   
-  <b>Interested in:</b> Mobile development, UI/UX, back-end, full-stack development and cybersecurity.
+  <b>Interested in:</b> Machine Learning, UI/UX, back-end, full-stack development and cybersecurity.
 </p>  
 
   <!-- Contact me -->
