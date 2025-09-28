@@ -27,22 +27,17 @@ Trying to cope up with world.
   <h3>Tools with experience</h3>
     
   [![Ferramentas com experiência](https://skillicons.dev/icons?i=figma,gamemakerstudio,androidstudio,idea,vscode,godot,ai,git&theme=dark)](https://skillicons.dev)
-  <img src="https://avatars.githubusercontent.com/u/21368660?s=200&v=4" alt="aseprite/libresprite" height="50">
-  <img src="https://static-00.iconduck.com/assets.00/apps-insomnia-icon-2048x2048-2mq9u7v5.png" alt="insomnia" height="50">
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png" alt="xcode" height="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azure" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" alt="jupyter" height="50">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-plain-wordmark.svg" alt="docker" height="50">
 
 
 </div>
 <hr>
 
 <div align="left">
-    <a href="https://github.com/ingrydf12">
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingrydf12&layout=compact&langs_count=10&theme=midnight-purple&hide=processing,yacc,html,css&border_radius"/>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ingrydf12&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
+    <a href="https://github.com/DynamicThinker">
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DynamicThinker&layout=compact&langs_count=10&theme=midnight-purple&hide=processing,yacc,html,css&border_radius"/>
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=DynamicThinker&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius"/>
     </a>
   </div>
  
