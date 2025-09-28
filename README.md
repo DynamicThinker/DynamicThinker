@@ -20,7 +20,7 @@ Trying to cope up with world.
 <div name="skills" align="left" gap="10">
     <h3>Skills</h3>
   
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,css,nodejs,vite,vue,react,sql,nextjs,tailwindcss,python,gsap)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,css,nodejs,vite,vue,react,nextjs,tailwindcss,python,gsap)](https://skillicons.dev)
 </div>
 
 
