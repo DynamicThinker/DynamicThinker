@@ -2,7 +2,7 @@
 <div name="introduction" align="left">
 
 <h3 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Sans&weight=500&size=22&duration=3800&pause=1000&color=FF8000&width=435&lines=Hey%2C+Pratish+here!;%F0%9F%9A%80+Always+building%2C+always+breaking%2C+always+learning.;%F0%9F%A7%A9+Big+fan+of+solving+weird+bugs." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Sans&weight=500&size=22&duration=3800&pause=1000&color=FF8000&width=800&lines=Hey%2C+Pratish+here!;%F0%9F%9A%80+Always+building%2C+always+breaking%2C+always+learning.;%F0%9F%A7%A9+Big+fan+of+solving+weird+bugs+at+3AM." alt="Typing SVG" /></a>
 </h3>
 
 <p>
